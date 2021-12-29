@@ -1,7 +1,0 @@
-name = "dush"
-type = "javascript"
-
-account_id = "3ec22bc0a7821dea3654a242a2bdf68e"
-workers_dev = true
-route = ""
-zone_id = ""
