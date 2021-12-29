@@ -1,4 +1,4 @@
-# dush-client
+# Dush Client - Under Development with Nuxt Js
 
 ## Build Setup
 
