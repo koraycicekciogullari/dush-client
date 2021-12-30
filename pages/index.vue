@@ -1,7 +1,8 @@
 <template>
-  <main class="font-source-sans-pro">
+  <main class="font-lato">
     <guest-topbar-component/>
     <guest-navbar-component/>
+    <guest-slider-component/>
   </main>
 </template>
 
