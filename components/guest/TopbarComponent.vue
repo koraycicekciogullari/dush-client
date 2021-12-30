@@ -3,7 +3,13 @@
     <div class="container mx-auto">
       <div class="flex justify-between justify-items-center text-white">
         <div class="flex gap-2 items-center text-xs font-semibold">
-          <strong class="bg-orange-400 px-4 py-2 rounded">Trending</strong>
+          <strong class="font-semibold bg-orange-400 px-4 py-2 rounded relative">
+            <span class="flex h-3 w-3 absolute -left-1 -top-1">
+              <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-red-500 opacity-75"></span>
+              <span class="relative inline-flex rounded-full h-3 w-3 bg-red-500"></span>
+            </span>
+            Trending
+          </strong>
           <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A adipisci, aliquam aut consectetur</p>
         </div>
         <div class="flex gap-2 items-center text-xs font-semibold">

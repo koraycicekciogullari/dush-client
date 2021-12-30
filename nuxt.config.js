@@ -50,8 +50,8 @@ export default {
   // Google Fonts Plugin Settings
   googleFonts: {
     families: {
-      'Source+Sans+Pro': {
-        wght: [300, 400, 600, 700],
+      'Lato': {
+        wght: [100, 300, 400, 700, 900],
       },
     },
     display: 'swap',
