@@ -51,7 +51,7 @@
         </div>
       </div>
     </div>
-    <div class="grid grid-cols-4 gap-6 mt-6">
+    <div class="grid grid-cols-3 gap-6 mt-6">
       <div>
         <a href="">
           <figure class="">
@@ -81,17 +81,6 @@
             <figcaption>
               <h2 class="font-semibold text-lg mb-2 transition hover:text-purple-800">Apple Reimagines The iPhone Experience With iOS 14</h2>
               <p class="text-sm text-gray-500">On its 11th anniversary in May 2020, the company announced that Minecraft had reached over 200 million copies sold across platforms with over 126 million monthly active players.</p>
-            </figcaption>
-          </figure>
-        </a>
-      </div>
-      <div>
-        <a href="">
-          <figure class="">
-            <img class="w-full h-40 object-cover rounded mb-4" src="https://images.pexels.com/photos/265087/pexels-photo-265087.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" width="100%" height="100%" alt="">
-            <figcaption>
-              <h2 class="font-semibold text-lg mb-2 transition hover:text-purple-800">Get Ready To Up Your Creative Game With The New DJI Mavic Air</h2>
-              <p class="text-sm text-gray-500">In September 2019, The Guardian classified Minecraft as the best video game of (the first two decades of) the 21st century, and in November 2019 Polygon called the game the “most important game of the decade”.</p>
             </figcaption>
           </figure>
         </a>
