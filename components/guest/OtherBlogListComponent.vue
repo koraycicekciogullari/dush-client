@@ -1,5 +1,6 @@
 <template>
   <div class="container mx-auto">
+    <h1>Test</h1>
     <div class="w-full py-4 px-8 mb-4 text-white bg-gradient-to-r from-purple-900 via-purple-700 to-purple-900 relative rounded">
       <h3 class="font-semibold">Bugün Yazılan Yazılar</h3>
       <icons-trend-icon class="absolute w-14 h-14 top-0 right-2 fill-current z-0 opacity-10" />
